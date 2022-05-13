@@ -1,0 +1,11 @@
+.board-row:after {
+    clear: both;
+    content: "";
+    display: flex;
+}
+
+.row {
+    clear: both;
+    content: "";
+    display: flex;
+  }

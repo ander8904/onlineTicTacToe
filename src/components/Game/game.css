@@ -1,0 +1,17 @@
+.game {
+    display: flex;
+    flex-direction: row;
+}
+
+.game-info {
+    margin-left: 30px;
+    font-size: large;
+}
+
+.caja {
+    background: rgb(173,38,54);
+    background: linear-gradient(45deg, rgba(173,38,54,1) 0%, rgba(33,35,56,1) 100%);
+}
+
+
+ 
